@@ -4,6 +4,6 @@ import PrimeraApp from './PirmeraApp';
 import './index.css'
 
 ReactDOM.render(
-    <PrimeraApp />,
+    <PrimeraApp saludo="hello world, react!" />,
     document.getElementById('root')
 );
