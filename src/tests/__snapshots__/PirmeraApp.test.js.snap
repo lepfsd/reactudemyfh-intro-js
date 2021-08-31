@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`prueba en <PirmeraApp /> debe mostrar el mensaje 1`] = `
+<Fragment>
+  <h1>
+     
+    hola soy goku
+     
+  </h1>
+  <p>
+    algo mas
+  </p>
+</Fragment>
+`;
